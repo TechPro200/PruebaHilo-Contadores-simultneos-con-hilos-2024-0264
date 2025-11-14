@@ -1,0 +1,14 @@
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\bin\Debug\net10.0\PruebaHilo.exe
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\bin\Debug\net10.0\PruebaHilo.deps.json
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\bin\Debug\net10.0\PruebaHilo.runtimeconfig.json
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\bin\Debug\net10.0\PruebaHilo.dll
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\bin\Debug\net10.0\PruebaHilo.pdb
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.AssemblyInfoInputs.cache
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.AssemblyInfo.cs
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.csproj.CoreCompileInputs.cache
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.dll
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\refint\PruebaHilo.dll
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.pdb
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\PruebaHilo.genruntimeconfig.cache
+C:\Users\tutan\OneDrive\Documents\PruebaHilo\obj\Debug\net10.0\ref\PruebaHilo.dll
