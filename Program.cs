@@ -32,7 +32,7 @@ class Program
             hilo = new Thread(Ejecutar);
             hilo.Start();
             Activo = true;
-            Console.WriteLine($"✅ Contador {Id} iniciado intervalo de {Intervalo} ms.");
+            Console.WriteLine($"Contador {Id} iniciado intervalo de {Intervalo} ms.");
         }
         private void Ejecutar()
         {
